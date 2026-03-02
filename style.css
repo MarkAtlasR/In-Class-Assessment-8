@@ -26,6 +26,15 @@ ul {
   list-style-type: square;
 }
 
+h1 {
+  text-transform: uppercase;
+  color: #8A2D3B;
+}
+
+h2 {
+  font-size: 2em; 
+}
+
 a:link {
    color:#2f4f4f ;
 }
