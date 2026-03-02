@@ -17,7 +17,30 @@ img {
   display: block;
 }
 
+.time {
+  font-weight: 700;
+  color: #f45d48;
+}
 
+ul {
+  list-style-type: square;
+}
+
+a:link {
+   color:#2f4f4f ;
+}
+a:visited {
+   color:#696969 ;
+}
+a:hover {
+   color:#00ffff ;
+}
+a:active {
+   color:#b22222 ;
+}
+footer a:hover {
+text-decoration: none;
+}
 ul, ol {
   margin-left: 25px;
 }
